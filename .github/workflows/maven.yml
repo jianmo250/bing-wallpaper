@@ -27,8 +27,8 @@ jobs:
 
     - name: Commit files
       run: |
-        git config --local user.email "i@moe.ms"
-        git config --local user.name "8838"
+        git config --local user.email "1371016752@qq.com"
+        git config --local user.name "jianmo250"
         git pull
         git add README.md
         git add bing-wallpaper.md
